@@ -12,7 +12,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                bat './gradlew clean build'
+                sh './gradlew clean build'
             }
         }
         stage('Test') {
