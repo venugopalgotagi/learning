@@ -1,0 +1,6 @@
+README.md
+setup.py
+my_mcp_server.egg-info/PKG-INFO
+my_mcp_server.egg-info/SOURCES.txt
+my_mcp_server.egg-info/dependency_links.txt
+my_mcp_server.egg-info/top_level.txt
